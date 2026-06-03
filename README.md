@@ -16,5 +16,7 @@ A compact macro-pad project built with the Seeed Studio XIAO. This project combi
 - [ ] Firmware development
 - [ ] Testing and finalization
 
+## Customization
+The Micropad is highly customizable. Users can modify key combinations by editing the `config.json` file located on the device. Simply update the key-action mapping, save the file, and the device will apply the changes instantly.
+
 ## Usage
-[Add a brief explanation of how to use your Micropad once it's built, e.g., how to connect it and which macros it triggers.]
